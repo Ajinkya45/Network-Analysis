@@ -1,0 +1,49 @@
+h1{
+    color: blue;
+    font-family: cambria;
+    font-size: 300%;
+}
+
+label{
+    font-family: Arial Rounded MT Bold;
+    font-size: 100%;
+}
+
+span{
+    font-family: Arial Rounded MT Bold; 
+    font-size: 100%;
+}
+
+input{
+    font-family: Batang; 
+    font-size: 100%;
+}
+
+button{
+    font-family: Arial Rounded MT Bold; 
+    font-size: 100%;
+}
+
+a{
+    font-family: Copperplate Gothic Bold; 
+    font-size: 100%;
+    background: lightblue;
+}
+
+div.col-sm-12{
+    background: lightyellow;
+}
+
+td{
+    border-right: solid 1px #f00; 
+    border-left: solid 1px #f00;
+}
+
+tr{
+    border-bottom: solid 1px #f00;
+    border-up: solid 1px #f00; 
+}
+
+
+
+
